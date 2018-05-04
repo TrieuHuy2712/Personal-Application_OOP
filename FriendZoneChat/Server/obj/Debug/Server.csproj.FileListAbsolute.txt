@@ -1,0 +1,28 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Client.PrivateChat.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Thinh\Downloads\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Thinh\Downloads\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
