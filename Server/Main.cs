@@ -92,15 +92,7 @@ namespace Server
                             txtReceive.Text += command[1] + " says: " + command[2] + "\r\n";
                             BroadcastData("RefreshChat|" + txtReceive.Text);
                             break;
-                        case "pMessage":
-                            this.Invoke(() =>
-                            {
-                                txtReceive.Text += command[1] + " says: " + command[2] + "\r\n";
-                            });
-                            break;
-                        case "pChat":
-
-                            break;
+                        
                     }
                 }
             });

@@ -61,12 +61,6 @@ namespace Client
                         
                     });
                     break;
-                case "pMessage":
-                    this.Invoke(() =>
-                    {
-                        txtReceive.Text += "Server says: " + cmd[1] + "\r\n";
-                    });
-                    break;
                 case "Disconnect":
                     Application.Exit();
                     break;

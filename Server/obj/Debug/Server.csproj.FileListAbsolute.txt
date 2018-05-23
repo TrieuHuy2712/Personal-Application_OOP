@@ -26,3 +26,11 @@ C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Deb
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.Main.resources
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.exe
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.pdb
+D:\PersonalApp\FriendZoneChat\Server\bin\Debug\Server.exe
+D:\PersonalApp\FriendZoneChat\Server\bin\Debug\Server.pdb
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.Main.resources
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
