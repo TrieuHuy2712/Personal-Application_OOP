@@ -39,3 +39,12 @@ C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Client\obj\Deb
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
 C:\Users\HUY TRIEU\Documents\Visual Studio 2015\Projects\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\PersonalApp\Client\bin\Debug\Client.exe
+D:\PersonalApp\Client\bin\Debug\Client.pdb
+D:\PersonalApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\PersonalApp\Client\obj\Debug\Client.LoginForm.resources
+D:\PersonalApp\Client\obj\Debug\Client.Properties.Resources.resources
+D:\PersonalApp\Client\obj\Debug\Client.PublicChatForm.resources
+D:\PersonalApp\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\PersonalApp\Client\obj\Debug\Client.exe
+D:\PersonalApp\Client\obj\Debug\Client.pdb

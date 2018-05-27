@@ -53,7 +53,6 @@
     <Compile Include="PublicChatForm.Designer.cs">
       <DependentUpon>PublicChatForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Structure.cs" />
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>

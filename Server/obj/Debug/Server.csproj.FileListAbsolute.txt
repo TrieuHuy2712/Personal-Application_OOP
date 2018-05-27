@@ -34,3 +34,11 @@ D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.csprojResolveAssemblyRefer
 D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.Main.resources
 D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.Properties.Resources.resources
 D:\PersonalApp\FriendZoneChat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\PersonalApp\Server\obj\Debug\Server.exe
+D:\PersonalApp\Server\obj\Debug\Server.pdb
+D:\PersonalApp\Server\bin\Debug\Server.exe
+D:\PersonalApp\Server\bin\Debug\Server.pdb
+D:\PersonalApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\PersonalApp\Server\obj\Debug\Server.Main.resources
+D:\PersonalApp\Server\obj\Debug\Server.Properties.Resources.resources
+D:\PersonalApp\Server\obj\Debug\Server.csproj.GenerateResource.Cache

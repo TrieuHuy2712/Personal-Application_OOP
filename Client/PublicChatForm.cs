@@ -11,16 +11,18 @@ namespace Client
         public PublicChatForm()
         {
             InitializeComponent();
+            
         }
         
 
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
+
             formLogin.Client.Received += _client_Received;
             formLogin.Client.Disconnected += Client_Disconnected;
-            
-            Text = "TCP Chat - " + formLogin.txtIP.Text + " - (Connected as: " + formLogin.txtNickname.Text + ")";
+            Text = "Friend Zone Chat: ";
+
             formLogin.ShowDialog();
         }
 
