@@ -44,7 +44,11 @@ namespace Client
                         {
                             if (cmd[i] != "Connected" | cmd[i] != "RefreshChat")
                             {
-                                userList.Items.Add(cmd[i]);
+                                if(cmd[i] == formLogin.txtNickname.Text)
+                                    userList.Items.Add(cmd[i]+"___Me");
+                                else
+                                    userList.Items.Add(cmd[i]);
+
                             }
                         }
                     });
@@ -73,11 +77,8 @@ namespace Client
         {
             if (txtInput.Text != string.Empty)
             {
-               
-                txtReceive.ForeColor =  txtInput.ForeColor;
-                txtReceive.Font = txtInput.Font;
-                txtReceive.AppendText(formLogin.txtNickname.Text + " says: " + txtInput.Text + "\r\n");
-                formLogin.Client.Send("Message|" + formLogin.txtNickname.Text + "|" + txtInput.Text+ "|"+txtReceive.Font+"|"+txtReceive.ForeColor);
+                txtReceive.AppendText(formLogin.txtNickname.Text + " says"+txtInput.Text + "\r\n");
+                formLogin.Client.Send("Message|" + formLogin.txtNickname.Text + "|" + txtInput.Text);
                
                 txtInput.Text = string.Empty;
                 
@@ -100,8 +101,6 @@ namespace Client
         {
             if (e.KeyChar == (char)Keys.Enter)
             {
-                txtInput.Focus();
-                txtInput.Select(0, 0);
                 btnSend.PerformClick();
 
             }
